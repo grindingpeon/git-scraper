@@ -450,9 +450,21 @@
     "pretitle": ""
   },
   "/underholdning/udlandkendte/i-taarer-paa-aaben-gade-paris-jackson-bekraefter-brud-fra-justin-long/10898485": {
-    "title_lg": "I tårer på åben gade",
-    "title_md": "I tårer på åben gade",
-    "title_sm": "I tårer på åben gade",
+    "title_lg": "Bekræfter brud",
+    "title_md": "Bekræfter brud",
+    "title_sm": "Bekræfter brud",
+    "pretitle": ""
+  },
+  "/nyheder/samfund/sidste-maaned-var-den-tiende-vaadeste-juli-nogensinde-maalt-i-danmark/10898600": {
+    "title_lg": "Historisk",
+    "title_md": "Historisk",
+    "title_sm": "Historisk",
+    "pretitle": ""
+  },
+  "/nyheder/krigogkatastrofer/toaarig-er-blandt-de-draebte-i-stort-russisk-angreb-paa-kyiv/10898494": {
+    "title_lg": "Toårig dræbt",
+    "title_md": "Toårig dræbt",
+    "title_sm": "Toårig dræbt",
     "pretitle": ""
   }
 }
