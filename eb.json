@@ -558,9 +558,9 @@
     "pretitle": ""
   },
   "/sport/fodbold/udenlandsk_fodbold/tyskfodbold/forfaerdelig-tragedie-sven-ulreich-har-mistet-seksaarig-soen/10898912": {
-    "title_lg": "Har mistet seksårig søn",
-    "title_md": "Har mistet seksårig søn",
-    "title_sm": "Har mistet seksårig søn",
+    "title_lg": "Forfærdelig tragedie",
+    "title_md": "Forfærdelig tragedie",
+    "title_sm": "Forfærdelig tragedie",
     "pretitle": ""
   },
   "/nyheder/samfund/foetex-i-randers-faar-paabud-kunder-kraenker-unge-ansatte/10898722": {
@@ -594,9 +594,21 @@
     "pretitle": ""
   },
   "/musik/dkmusiknyt/tre-koncerter-aflyst-paa-ringsted-festival/10898936": {
-    "title_lg": "Koncerter aflyst på dansk festival",
-    "title_md": "Koncerter aflyst på dansk festival",
-    "title_sm": "Koncerter aflyst på dansk festival",
+    "title_lg": "Koncerter aflyst",
+    "title_md": "Koncerter aflyst",
+    "title_sm": "Koncerter aflyst",
+    "pretitle": ""
+  },
+  "/sport/fodbold/politiinspektoer-raser-mod-jens-stryger-larsen-efter-viral-video/10898916": {
+    "title_lg": "Politiet raser mod dansk stjerne",
+    "title_md": "Politiet raser mod dansk stjerne",
+    "title_sm": "Politiet raser mod dansk stjerne",
+    "pretitle": ""
+  },
+  "/nyheder/krigogkatastrofer/tre-meldes-draebt-ved-uddelingssted-i-gaza-efter-witkoffs-visit/10898927": {
+    "title_lg": "Efter USA-besøg: Flere personer dræbt",
+    "title_md": "Efter USA-besøg: Flere personer dræbt",
+    "title_sm": "Efter USA-besøg: Flere personer dræbt",
     "pretitle": ""
   }
 }
