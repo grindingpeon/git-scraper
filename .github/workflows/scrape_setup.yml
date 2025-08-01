@@ -1,6 +1,7 @@
 name: Scrape latest data tets
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '*/5 * * * *'
 
