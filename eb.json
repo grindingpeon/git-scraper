@@ -288,9 +288,9 @@
     "pretitle": ""
   },
   "/sport/fodbold/article10898285.ece": {
-    "title_lg": "Wow!",
-    "title_md": "Wow!",
-    "title_sm": "Wow!",
+    "title_lg": "Dansk perle i Europa",
+    "title_md": "Dansk perle i Europa",
+    "title_sm": "Dansk perle i Europa",
     "pretitle": ""
   },
   "/sport/fodbold/udenlandsk_fodbold/conferenceleague/vanvittigt-drama-silkeborg-videre-i-europa-efter-forlaenget-spilletid/10898287": {
@@ -516,9 +516,9 @@
     "pretitle": ""
   },
   "/nyheder/trafikogvejr/article10898820.ece": {
-    "title_lg": "Kæmpe vejr-kaos",
-    "title_md": "Kæmpe vejr-kaos",
-    "title_sm": "Kæmpe vejr-kaos",
+    "title_lg": "Kæmpe vejr-kaos: Biler fanget i vandet",
+    "title_md": "Kæmpe vejr-kaos: Biler fanget i vandet",
+    "title_sm": "Kæmpe vejr-kaos: Biler fanget i vandet",
     "pretitle": ""
   },
   "/underholdning/udlandkendte/foo-fighters-har-fundet-deres-nye-trommeslager/10898615": {
@@ -591,6 +591,12 @@
     "title_lg": "Laver aktien comeback?",
     "title_md": "Laver aktien comeback?",
     "title_sm": "Laver aktien comeback?",
+    "pretitle": ""
+  },
+  "/musik/dkmusiknyt/tre-koncerter-aflyst-paa-ringsted-festival/10898936": {
+    "title_lg": "Koncerter aflyst på dansk festival",
+    "title_md": "Koncerter aflyst på dansk festival",
+    "title_sm": "Koncerter aflyst på dansk festival",
     "pretitle": ""
   }
 }
