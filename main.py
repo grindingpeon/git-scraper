@@ -1,6 +1,7 @@
 import json
 import requests
 from parsel import Selector
+from pathlib import Path
 
 
 def join_texts(texts: list[str]):
@@ -35,6 +36,14 @@ def main():
     html = requests.get("https://www.eb.dk").text
     sel = Selector(text=html)
     output = parse_page(sel)
+
+    outfile = Path("eb.json")
+    if outfile.exists():
+        print("File eb.json already exists, merging data...")
+        with open(outfile, "r", encoding="utf-8") as f:
+            existing_data = json.load(f)
+        existing_data.update(output)
+        output = existing_data
 
     with open("eb.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
