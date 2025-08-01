@@ -3,6 +3,10 @@ name: Scrape latest data tets
 on:
   push:
 
+# for pushing
+permissions:
+  contents: write
+
 jobs:
   scheduled:
     runs-on: ubuntu-latest
