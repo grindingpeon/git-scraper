@@ -17,7 +17,7 @@ jobs:
     - name: Check python version
       run: python --version
     - name: Run a command
-            run: echo "Code was pushed to ${{ github.ref }}"
+      run: echo "Code was pushed to ${{ github.ref }}"
     # - name: Fetch latest data
     #   run: |-
     #     curl https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents | jq . > incidents.json
