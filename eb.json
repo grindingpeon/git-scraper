@@ -1,8 +1,8 @@
 {
   "/krimi/skud-affyret-mod-lejlighedsdoer-i-aarhus/10898499": {
-    "title_lg": "Det var målrettet",
-    "title_md": "Det var målrettet",
-    "title_sm": "Det var målrettet",
+    "title_lg": "Skud affyret",
+    "title_md": "Skud affyret",
+    "title_sm": "Skud affyret",
     "pretitle": ""
   },
   "/penge/trump-krav-skader-novo-danske-aktier-er-blodroede/10898477": {
@@ -429,6 +429,12 @@
     "title_lg": "Store planer",
     "title_md": "Store planer",
     "title_sm": "Store planer",
+    "pretitle": ""
+  },
+  "/penge/danske-aktier-faar-taesk-c25-falder-23-procent/10898511": {
+    "title_lg": "Massivt fald",
+    "title_md": "Massivt fald",
+    "title_sm": "Massivt fald",
     "pretitle": ""
   }
 }
