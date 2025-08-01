@@ -516,9 +516,9 @@
     "pretitle": ""
   },
   "/nyheder/trafikogvejr/article10898820.ece": {
-    "title_lg": "Kæmpe vejr-kaos: Advarer kunder",
-    "title_md": "Kæmpe vejr-kaos: Advarer kunder",
-    "title_sm": "Kæmpe vejr-kaos: Advarer kunder",
+    "title_lg": "Kæmpe vejr-kaos",
+    "title_md": "Kæmpe vejr-kaos",
+    "title_sm": "Kæmpe vejr-kaos",
     "pretitle": ""
   },
   "/underholdning/udlandkendte/foo-fighters-har-fundet-deres-nye-trommeslager/10898615": {
@@ -561,6 +561,36 @@
     "title_lg": "Har mistet seksårig søn",
     "title_md": "Har mistet seksårig søn",
     "title_sm": "Har mistet seksårig søn",
+    "pretitle": ""
+  },
+  "/nyheder/samfund/foetex-i-randers-faar-paabud-kunder-kraenker-unge-ansatte/10898722": {
+    "title_lg": "Kunder krænker unge ansatte",
+    "title_md": "Kunder krænker unge ansatte",
+    "title_sm": "Kunder krænker unge ansatte",
+    "pretitle": ""
+  },
+  "/krimi/article10897275.ece": {
+    "title_lg": "Chokerende fund",
+    "title_md": "Chokerende fund",
+    "title_sm": "Chokerende fund",
+    "pretitle": ""
+  },
+  "/sport/fodbold/dansk_fodbold/superligaen/fck-tildeles-boede-for-affyring-af-pyroteknik-mod-vejle/10898921": {
+    "title_lg": "FCK får kæmpe bøder",
+    "title_md": "FCK får kæmpe bøder",
+    "title_sm": "FCK får kæmpe bøder",
+    "pretitle": ""
+  },
+  "/nyheder/samfund/article10898733.ece": {
+    "title_lg": "Wow!",
+    "title_md": "Wow!",
+    "title_sm": "Wow!",
+    "pretitle": ""
+  },
+  "/penge/koeb-eller-saelg-saadan-vurderer-eksperterne-novo-aktien/10898712": {
+    "title_lg": "Laver aktien comeback?",
+    "title_md": "Laver aktien comeback?",
+    "title_sm": "Laver aktien comeback?",
     "pretitle": ""
   }
 }
