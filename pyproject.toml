@@ -1,0 +1,20 @@
+[project]
+name = "ebgs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "grindingpeon", email = "misc@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32.4",
+    "scrapy>=2.13.3",
+]
+
+[project.scripts]
+ebgs = "ebgs:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
