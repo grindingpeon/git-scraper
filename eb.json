@@ -852,9 +852,9 @@
     "pretitle": ""
   },
   "/nyheder/Udland/helikopter-involveret-i-flysammenstoed-i-usa-havde-teknisk-fejl/10899296": {
-    "title_lg": "Afslører helt nye oplysninger",
-    "title_md": "Afslører helt nye oplysninger",
-    "title_sm": "Afslører helt nye oplysninger",
+    "title_lg": "Afslører nye oplysninger",
+    "title_md": "Afslører nye oplysninger",
+    "title_sm": "Afslører nye oplysninger",
     "pretitle": ""
   },
   "/krimi/politiet-beslaglaegger-bil-i-aalborg-efter-biljagt-gennem-centrum/10899297": {
@@ -894,21 +894,27 @@
     "pretitle": ""
   },
   "/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/heung-min-son-forlader-tottenham/10899316": {
-    "title_lg": "Det er Slut",
-    "title_md": "Det er Slut",
-    "title_sm": "Det er Slut",
+    "title_lg": "Det er slut",
+    "title_md": "Det er slut",
+    "title_sm": "Det er slut",
     "pretitle": ""
   },
   "/sport/fodbold/38-millioner-hemmelig-fodboldfrue-har-koebt-mads-langers-villa/10898514": {
-    "title_lg": "Hemmelig fodboldfrue køber Mads Langers villa",
-    "title_md": "Hemmelig fodboldfrue køber Mads Langers villa",
-    "title_sm": "Hemmelig fodboldfrue køber Mads Langers villa",
+    "title_lg": "Fodboldfrue køber Mads Langers villa",
+    "title_md": "Fodboldfrue køber Mads Langers villa",
+    "title_sm": "Fodboldfrue køber Mads Langers villa",
     "pretitle": ""
   },
   "/forbrug/sundhed/seniorsex-saadan-holder-du-gang-i-lagnerne/10896219": {
     "title_lg": "Sådan holder du gang i lagnerne",
     "title_md": "Sådan holder du gang i lagnerne",
     "title_sm": "Sådan holder du gang i lagnerne",
+    "pretitle": ""
+  },
+  "/nyheder/trafikogvejr/tordenloerdag-kraftige-byger-vaelter-igen-ind-over-landet/10899317": {
+    "title_lg": "Her går de fri",
+    "title_md": "Her går de fri",
+    "title_sm": "Her går de fri",
     "pretitle": ""
   }
 }
