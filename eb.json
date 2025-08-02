@@ -918,9 +918,9 @@
     "pretitle": ""
   },
   "/underholdning/kultur/advarer-foer-festival-forvent-trafikkaos/10897465": {
-    "title_lg": "Advarer før festival",
-    "title_md": "Advarer før festival",
-    "title_sm": "Advarer før festival",
+    "title_lg": "Advarer",
+    "title_md": "Advarer",
+    "title_sm": "Advarer",
     "pretitle": ""
   },
   "/underholdning/dkkendte/joergen-de-mylius-varmer-op-for-verdensstjerne-det-bliver-fantastisk/10897310": {
@@ -939,6 +939,12 @@
     "title_lg": "På spil i Danmark",
     "title_md": "På spil i Danmark",
     "title_sm": "På spil i Danmark",
+    "pretitle": ""
+  },
+  "/krimi/to-personer-er-sigtet-for-drabsforsoeg-efter-skyderi-paa-aaben-gade/10899308": {
+    "title_lg": "Sigtet for drabs- forsøg",
+    "title_md": "Sigtet for drabs- forsøg",
+    "title_sm": "Sigtet for drabs- forsøg",
     "pretitle": ""
   }
 }
