@@ -948,9 +948,9 @@
     "pretitle": ""
   },
   "/nyheder/samfund/maxwell-flyttet-i-stilhed-ingen-vil-sige-hvorfor/10899329": {
-    "title_lg": "Ingen vil sige hvorfor",
-    "title_md": "Ingen vil sige hvorfor",
-    "title_sm": "Ingen vil sige hvorfor",
+    "title_lg": "Flyttet i stilhed",
+    "title_md": "Flyttet i stilhed",
+    "title_sm": "Flyttet i stilhed",
     "pretitle": ""
   },
   "/krimi/hashbule-i-skraldeskur-paa-christiania/10898906": {
@@ -1017,6 +1017,18 @@
     "title_lg": "Risikerer 15 års fængsel",
     "title_md": "Risikerer 15 års fængsel",
     "title_sm": "Risikerer 15 års fængsel",
+    "pretitle": ""
+  },
+  "/krimi/lige-nu-ambulance-i-uheld/10899463": {
+    "title_lg": "Ambulance i uheld",
+    "title_md": "Ambulance i uheld",
+    "title_sm": "Ambulance i uheld",
+    "pretitle": ""
+  },
+  "/krimi/efter-stribe-af-sigtelser-nu-kommer-politiet-med-usaedvanlig-besked/10899452": {
+    "title_lg": "Politiet med usædvanlig besked",
+    "title_md": "Politiet med usædvanlig besked",
+    "title_sm": "Politiet med usædvanlig besked",
     "pretitle": ""
   }
 }
