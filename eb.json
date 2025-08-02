@@ -894,9 +894,9 @@
     "pretitle": ""
   },
   "/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/heung-min-son-forlader-tottenham/10899316": {
-    "title_lg": "Det er slut",
-    "title_md": "Det er slut",
-    "title_sm": "Det er slut",
+    "title_lg": "Slut",
+    "title_md": "Slut",
+    "title_sm": "Slut",
     "pretitle": ""
   },
   "/sport/fodbold/38-millioner-hemmelig-fodboldfrue-har-koebt-mads-langers-villa/10898514": {
@@ -945,6 +945,18 @@
     "title_lg": "Sigtet for drabs- forsøg",
     "title_md": "Sigtet for drabs- forsøg",
     "title_sm": "Sigtet for drabs- forsøg",
+    "pretitle": ""
+  },
+  "/nyheder/samfund/maxwell-flyttet-i-stilhed-ingen-vil-sige-hvorfor/10899329": {
+    "title_lg": "Ingen vil sige hvorfor",
+    "title_md": "Ingen vil sige hvorfor",
+    "title_sm": "Ingen vil sige hvorfor",
+    "pretitle": ""
+  },
+  "/krimi/hashbule-i-skraldeskur-paa-christiania/10898906": {
+    "title_lg": "Taget på fersk gerning",
+    "title_md": "Taget på fersk gerning",
+    "title_sm": "Taget på fersk gerning",
     "pretitle": ""
   }
 }
