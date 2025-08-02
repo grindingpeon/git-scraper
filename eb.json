@@ -1086,9 +1086,9 @@
     "pretitle": ""
   },
   "/sport/cykling/rafal-majka-stopper-karrieren/10899516": {
-    "title_lg": "Tour-legende stopper karrieren",
-    "title_md": "Tour-legende stopper karrieren",
-    "title_sm": "Tour-legende stopper karrieren",
+    "title_lg": "Tour-legende stopper",
+    "title_md": "Tour-legende stopper",
+    "title_sm": "Tour-legende stopper",
     "pretitle": ""
   },
   "/nyheder/Udland/article10899558.ece": {
@@ -1140,15 +1140,27 @@
     "pretitle": ""
   },
   "/sport/cykling/stjerne-forklarer-uheld-undskyld-til-dem-der-troede-jeg-var-alkoholiker/10897700": {
-    "title_lg": "Stjerne forklarer skrækulykke: - Troede, jeg var alkoholiker",
-    "title_md": "Stjerne forklarer skrækulykke: - Troede, jeg var alkoholiker",
-    "title_sm": "Stjerne forklarer skrækulykke: - Troede, jeg var alkoholiker",
+    "title_lg": "Forklarer skrækulykke",
+    "title_md": "Forklarer skrækulykke",
+    "title_sm": "Forklarer skrækulykke",
     "pretitle": ""
   },
   "/nyheder/videnskab/fascinerende-fund-lavede-schweizerkniv-ud-af-huleloeve/10897779": {
     "title_lg": "Vildt fund i grotte",
     "title_md": "Vildt fund i grotte",
     "title_sm": "Vildt fund i grotte",
+    "pretitle": ""
+  },
+  "/nyheder/politik/engell-her-er-mettes-stoerste-problem/10899556": {
+    "title_lg": "Her er Mettes største problem",
+    "title_md": "Her er Mettes største problem",
+    "title_sm": "Her er Mettes største problem",
+    "pretitle": ""
+  },
+  "/sport/fodbold/delaney-smiler-af-stryger-det-maa-han-selv-om/10899642": {
+    "title_lg": "Griner ad Stryger",
+    "title_md": "Griner ad Stryger",
+    "title_sm": "Griner ad Stryger",
     "pretitle": ""
   }
 }
