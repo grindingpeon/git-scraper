@@ -1020,9 +1020,9 @@
     "pretitle": ""
   },
   "/krimi/lige-nu-ambulance-i-uheld/10899463": {
-    "title_lg": "Ambulance i uheld",
-    "title_md": "Ambulance i uheld",
-    "title_sm": "Ambulance i uheld",
+    "title_lg": "Ambulance brager sammen med bil",
+    "title_md": "Ambulance brager sammen med bil",
+    "title_sm": "Ambulance brager sammen med bil",
     "pretitle": ""
   },
   "/krimi/efter-stribe-af-sigtelser-nu-kommer-politiet-med-usaedvanlig-besked/10899452": {
@@ -1053,6 +1053,12 @@
     "title_lg": "Hæver prisen for turister",
     "title_md": "Hæver prisen for turister",
     "title_sm": "Hæver prisen for turister",
+    "pretitle": ""
+  },
+  "/forbrug/Teknologi/kasper-udsat-for-datatyveri-svigt-og-utryghed/10871203": {
+    "title_lg": "Nu kræver han 25.000 kr.",
+    "title_md": "Nu kræver han 25.000 kr.",
+    "title_sm": "Nu kræver han 25.000 kr.",
     "pretitle": ""
   }
 }
