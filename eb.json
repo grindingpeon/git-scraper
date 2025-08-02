@@ -1062,9 +1062,9 @@
     "pretitle": ""
   },
   "/sport/fodbold/medier-kaos-hersker-for-dansk-manager-i-sheffield-wednesday/10899462": {
-    "title_lg": "Dansker fanget i engelsk kaos",
-    "title_md": "Dansker fanget i engelsk kaos",
-    "title_sm": "Dansker fanget i engelsk kaos",
+    "title_lg": "Fanget i kaos",
+    "title_md": "Fanget i kaos",
+    "title_sm": "Fanget i kaos",
     "pretitle": ""
   },
   "/krimi/politi-advarer-om-mulig-drugging-i-pirattaxaer/10899534": {
@@ -1077,6 +1077,18 @@
     "title_lg": "Forsøgte at dræbe cyklist",
     "title_md": "Forsøgte at dræbe cyklist",
     "title_sm": "Forsøgte at dræbe cyklist",
+    "pretitle": ""
+  },
+  "/underholdning/dkkendte/lene-beier-afsloerer-her-vender-hun-tilbage-paa-skaermen/10898930": {
+    "title_lg": "Afslører: Her vender hun tilbage",
+    "title_md": "Afslører: Her vender hun tilbage",
+    "title_sm": "Afslører: Her vender hun tilbage",
+    "pretitle": ""
+  },
+  "/sport/cykling/rafal-majka-stopper-karrieren/10899516": {
+    "title_lg": "Tour-legende stopper karrieren",
+    "title_md": "Tour-legende stopper karrieren",
+    "title_sm": "Tour-legende stopper karrieren",
     "pretitle": ""
   }
 }
