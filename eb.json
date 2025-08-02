@@ -1020,9 +1020,9 @@
     "pretitle": ""
   },
   "/krimi/lige-nu-ambulance-i-uheld/10899463": {
-    "title_lg": "Ambulance brager sammen med bil",
-    "title_md": "Ambulance brager sammen med bil",
-    "title_sm": "Ambulance brager sammen med bil",
+    "title_lg": "Brager sammen med bil",
+    "title_md": "Brager sammen med bil",
+    "title_sm": "Brager sammen med bil",
     "pretitle": ""
   },
   "/krimi/efter-stribe-af-sigtelser-nu-kommer-politiet-med-usaedvanlig-besked/10899452": {
@@ -1032,9 +1032,9 @@
     "pretitle": ""
   },
   "/sport/fodbold/udenlandsk_fodbold/international_fodbold/jores-okore-stopper-karrieren/10899486": {
-    "title_lg": "Tidligere landsholdsspiller stopper karrieren",
-    "title_md": "Tidligere landsholdsspiller stopper karrieren",
-    "title_sm": "Tidligere landsholdsspiller stopper karrieren",
+    "title_lg": "Stopper karrieren",
+    "title_md": "Stopper karrieren",
+    "title_sm": "Stopper karrieren",
     "pretitle": ""
   },
   "/krimi/en-person-reddet-ud-af-braendende-lejlighed-i-aarhus/10899475": {
@@ -1056,15 +1056,27 @@
     "pretitle": ""
   },
   "/forbrug/Teknologi/kasper-udsat-for-datatyveri-svigt-og-utryghed/10871203": {
-    "title_lg": "Nu kræver han 25.000 kr.",
-    "title_md": "Nu kræver han 25.000 kr.",
-    "title_sm": "Nu kræver han 25.000 kr.",
+    "title_lg": "Kræver 25.000 kr.",
+    "title_md": "Kræver 25.000 kr.",
+    "title_sm": "Kræver 25.000 kr.",
     "pretitle": ""
   },
   "/sport/fodbold/medier-kaos-hersker-for-dansk-manager-i-sheffield-wednesday/10899462": {
     "title_lg": "Dansker fanget i engelsk kaos",
     "title_md": "Dansker fanget i engelsk kaos",
     "title_sm": "Dansker fanget i engelsk kaos",
+    "pretitle": ""
+  },
+  "/krimi/politi-advarer-om-mulig-drugging-i-pirattaxaer/10899534": {
+    "title_lg": "Flere anmeldelser: Nu advarer politiet",
+    "title_md": "Flere anmeldelser: Nu advarer politiet",
+    "title_sm": "Flere anmeldelser: Nu advarer politiet",
+    "pretitle": ""
+  },
+  "/krimi/sigtelse-maend-forsoegte-at-draebe-cyklist-med-paakoersel/10899540": {
+    "title_lg": "Forsøgte at dræbe cyklist",
+    "title_md": "Forsøgte at dræbe cyklist",
+    "title_sm": "Forsøgte at dræbe cyklist",
     "pretitle": ""
   }
 }
