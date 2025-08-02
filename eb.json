@@ -984,9 +984,9 @@
     "pretitle": ""
   },
   "/underholdning/kultur/holder-vejret-voldsomt-vejr-truer-festivaler/10899404": {
-    "title_lg": "Holder vejret på dansk festival",
-    "title_md": "Holder vejret på dansk festival",
-    "title_sm": "Holder vejret på dansk festival",
+    "title_lg": "Voldsomt vejr truer festivaler",
+    "title_md": "Voldsomt vejr truer festivaler",
+    "title_sm": "Voldsomt vejr truer festivaler",
     "pretitle": ""
   },
   "/sport/formel_1/den-stille-draeber/10898982": {
@@ -996,15 +996,27 @@
     "pretitle": ""
   },
   "/underholdning/filmogtv/stopper-sex-and-the-city-efterfoelger-et-smukt-sted-at-stoppe/10899052": {
-    "title_lg": "Slut med tv-hit",
-    "title_md": "Slut med tv-hit",
-    "title_sm": "Slut med tv-hit",
+    "title_lg": "Slut",
+    "title_md": "Slut",
+    "title_sm": "Slut",
     "pretitle": ""
   },
   "/krimi/voldtog-retarderet-pige-to-gange-jeg-var-bare-legeonkel/10617892": {
     "title_lg": "Voldtog retarderet pige to gange",
     "title_md": "Voldtog retarderet pige to gange",
     "title_sm": "Voldtog retarderet pige to gange",
+    "pretitle": ""
+  },
+  "/penge/novo-sendt-flere-aar-tilbage-der-er-hoej-risiko/10898597": {
+    "title_lg": "Sendt flere år tilbage efter katastrofe-uge",
+    "title_md": "Sendt flere år tilbage efter katastrofe-uge",
+    "title_sm": "Sendt flere år tilbage efter katastrofe-uge",
+    "pretitle": ""
+  },
+  "/sport/fodbold/udenlandsk_fodbold/international_fodbold/uhyggelig-voldtaegtsanklage-stjerne-risikerer-15-aars-faengsel/10899382": {
+    "title_lg": "Risikerer 15 års fængsel",
+    "title_md": "Risikerer 15 års fængsel",
+    "title_sm": "Risikerer 15 års fængsel",
     "pretitle": ""
   }
 }
